@@ -1,2 +1,0 @@
-# zoomdragscada
-Created with CodeSandbox
